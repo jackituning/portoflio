@@ -1,0 +1,21 @@
+body {
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+h2 {
+    color: var(--text-color);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+strong {
+    color: var(--accent-color);
+}
+p {
+    text-align: justify;
+    color: var(--text-color);
+}
+
